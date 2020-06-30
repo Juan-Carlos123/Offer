@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887856730070",
+    "firebase_url": "https://fir-app-6c8cf.firebaseio.com",
+    "project_id": "fir-app-6c8cf",
+    "storage_bucket": "fir-app-6c8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887856730070:android:af11de3d0c95be9fc51e77",
+        "android_client_info": {
+          "package_name": "pe.edu.myapplication_o"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887856730070-8d416h8plrnd8t69gibva0ud6j8hcgqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.myapplication_o",
+            "certificate_hash": "8657cd531f1b06493a92b8f507d56a83c6813888"
+          }
+        },
+        {
+          "client_id": "887856730070-2lmubs4tgi8n556ga73hgkgljgjlesk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM1EAcTruksJ8qWYSLcpoqf1Mhm0lBQC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887856730070-2lmubs4tgi8n556ga73hgkgljgjlesk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
